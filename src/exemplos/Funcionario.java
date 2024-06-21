@@ -27,7 +27,7 @@ public class Funcionario {
 
     @Override
     public String toString() {
-        return "Funcionario: " + nome  + " Salario: R$:" + salario + '}';
+        return "Funcionario: " + nome  + "\nSalario: R$:" + salario + '}';
     }
     
 }
